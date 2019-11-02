@@ -2,3 +2,6 @@
 #### 下载:https://lzy-public-data.oss-cn-beijing.aliyuncs.com/ocr.h5
 放到model_data下
 然后运行ocr.py
+
+
+该项目基于：https://github.com/chineseocr/chineseocr
